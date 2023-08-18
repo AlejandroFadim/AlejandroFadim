@@ -1,8 +1,6 @@
+## Olá! Eu sou Alejandro Castor da Costa Fadim
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BoemiaDev/BoemiaDev/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Sou um estudante de Análise e Desenvolvimento de Sistemas. <br><br>na jornada de me tornar um Desenvolvedor Fullstack,<strong> apaixonado pelo estudo de novas tecnologias e aplical-las em novos projetos </strong>.</p>&nbsp;
+<p align="justfy">Um estudante de Análise e Desenvolvimento de Sistemas. <br><br>na jornada de me tornar um Desenvolvedor Fullstack,<strong> apaixonado pelo estudo de novas tecnologias e aplical-las em novos projetos </strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BoemiaDev&theme=radical&mode=weekly" />
@@ -11,9 +9,9 @@
  
  &nbsp;
  &nbsp;
-## My Skills
+## Minhas Skills
 
-#### Main Stack:
+#### Minhas principais Stacks:
 
 <div style="display: inline_block"><br>
   
@@ -35,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-#### Studying in this moment:
+#### Estudando no momento:
 
 <div style="display: inline_block"><br>
  
@@ -51,7 +49,7 @@
 
 </div>
 
-#### Workstation Tools:
+#### Minhas ferramentas de trabalho:
 <div style="display: inline_block"><br>
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
            
