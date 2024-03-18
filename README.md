@@ -2,7 +2,6 @@
 
 <p align="justfy">Um estudante de Análise e Desenvolvimento de Sistemas. <br><br>na jornada de me tornar um Desenvolvedor Fullstack,<strong> apaixonado pelo estudo de novas tecnologias e aplica-las em novos projetos </strong>.</p>&nbsp;
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BoemiaDev&theme=radical&mode=weekly" />
@@ -50,10 +49,10 @@
 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+          
 
-  
-  <i class="devicon-nextjs-original-wordmark"></i>
+
           
           
   
