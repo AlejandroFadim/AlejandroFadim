@@ -2,6 +2,8 @@
 
 <p align="justfy">Um estudante de Análise e Desenvolvimento de Sistemas. <br><br>na jornada de me tornar um Desenvolvedor Fullstack,<strong> apaixonado pelo estudo de novas tecnologias e aplica-las em novos projetos </strong>.</p>&nbsp;
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BoemiaDev&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=BoemiaDev&show_icons=true&theme=radical&layout=compact" />
