@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="168" viewBox="0 0 1000 168" role="img" aria-labelledby="t d">
+<title id="t">Indicadores de resultado</title>
+<desc id="d">Quatro indicadores: cerca de 3 anos em dados e BI, Big Data com Databricks e PySpark, 95% menos tempo em rotinas automatizadas e trabalho end-to-end, do ETL à apresentação ao negócio.</desc>
+<style>
+  .t{font-family:-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+  .card{animation:rise .7s cubic-bezier(.2,.7,.2,1) backwards}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+
+<g class="card" style="animation-delay:0.00s">
+  <rect x="0.5" y="0.5" width="231" height="167" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <rect x="24" y="0" width="40" height="3" rx="1.5" fill="#E5B94D"/>
+  <text class="t" x="24" y="74" font-size="42" font-weight="700" letter-spacing="-1" fill="#F6F8FB">~3 anos</text>
+  <text class="t" x="24" y="108" font-size="15" font-weight="600" fill="#EDF0F5">Em dados e BI</text>
+  <text class="t" x="24" y="132" font-size="12.5" fill="#9AA4B5">de experiência prática</text>
+</g>
+<g class="card" style="animation-delay:0.12s">
+  <rect x="256.5" y="0.5" width="231" height="167" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <rect x="280" y="0" width="40" height="3" rx="1.5" fill="#E5B94D"/>
+  <text class="t" x="280" y="74" font-size="36" font-weight="700" letter-spacing="-1" fill="#F6F8FB">Big Data</text>
+  <text class="t" x="280" y="108" font-size="15" font-weight="600" fill="#EDF0F5">Databricks e PySpark</text>
+  <text class="t" x="280" y="132" font-size="12.5" fill="#9AA4B5">camadas Bronze, Prata e Ouro</text>
+</g>
+<g class="card" style="animation-delay:0.24s">
+  <rect x="512.5" y="0.5" width="231" height="167" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <rect x="536" y="0" width="40" height="3" rx="1.5" fill="#E5B94D"/>
+  <text class="t" x="536" y="74" font-size="42" font-weight="700" letter-spacing="-1" fill="#F6F8FB">−95%</text>
+  <text class="t" x="536" y="108" font-size="15" font-weight="600" fill="#EDF0F5">Tempo em rotinas</text>
+  <text class="t" x="536" y="132" font-size="12.5" fill="#9AA4B5">automatizadas, de horas a minutos</text>
+</g>
+<g class="card" style="animation-delay:0.36s">
+  <rect x="768.5" y="0.5" width="231" height="167" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <rect x="792" y="0" width="40" height="3" rx="1.5" fill="#E5B94D"/>
+  <text class="t" x="792" y="74" font-size="32" font-weight="700" letter-spacing="-1" fill="#F6F8FB">End-to-end</text>
+  <text class="t" x="792" y="108" font-size="15" font-weight="600" fill="#EDF0F5">Ciclo completo do dado</text>
+  <text class="t" x="792" y="132" font-size="12.5" fill="#9AA4B5">do ETL à apresentação ao negócio</text>
+</g>
+</svg>
