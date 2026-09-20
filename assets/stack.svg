@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="282" viewBox="0 0 1000 282" role="img" aria-labelledby="t d">
+<title id="t">Stack e práticas</title>
+<desc id="d">Ferramentas de dados e engenharia, BI e modelagem, e práticas de trabalho.</desc>
+<style>
+  .t{font-family:-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<g>
+  <rect x="0.5" y="0.5" width="319" height="281" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <text class="m" x="20" y="34" font-size="12" letter-spacing="2" fill="#E5B94D">DADOS E ENGENHARIA</text>  <rect x="20.0" y="54" width="107.0" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="34.0" cy="69" r="3.2" fill="#E5B94D"/>
+  <text class="t" x="44.0" y="73.5" font-size="13" fill="#EDF0F5">SQL Server</text>  <rect x="135.0" y="54" width="107.0" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="149.0" cy="69" r="3.2" fill="#E5B94D"/>
+  <text class="t" x="159.0" y="73.5" font-size="13" fill="#EDF0F5">PostgreSQL</text>  <rect x="20.0" y="94" width="79.4" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="34.0" cy="109" r="3.2" fill="#E5B94D"/>
+  <text class="t" x="44.0" y="113.5" font-size="13" fill="#EDF0F5">Python</text>  <rect x="107.4" y="94" width="86.3" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="121.4" cy="109" r="3.2" fill="#E5B94D"/>
+  <text class="t" x="131.4" y="113.5" font-size="13" fill="#EDF0F5">PySpark</text>  <rect x="20.0" y="134" width="107.0" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="34.0" cy="149" r="3.2" fill="#E5B94D"/>
+  <text class="t" x="44.0" y="153.5" font-size="13" fill="#EDF0F5">Databricks</text>  <rect x="135.0" y="134" width="100.1" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="149.0" cy="149" r="3.2" fill="#E5B94D"/>
+  <text class="t" x="159.0" y="153.5" font-size="13" fill="#EDF0F5">ETL / ELT</text>  <rect x="20.0" y="174" width="100.1" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="34.0" cy="189" r="3.2" fill="#E5B94D"/>
+  <text class="t" x="44.0" y="193.5" font-size="13" fill="#EDF0F5">APIs REST</text>  <rect x="128.1" y="174" width="86.3" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="142.1" cy="189" r="3.2" fill="#E5B94D"/>
+  <text class="t" x="152.1" y="193.5" font-size="13" fill="#EDF0F5">Parquet</text></g>
+<g>
+  <rect x="340.5" y="0.5" width="319" height="281" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <text class="m" x="360" y="34" font-size="12" letter-spacing="2" fill="#AEB8C7">BI E MODELAGEM</text>  <rect x="360.0" y="54" width="93.2" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="374.0" cy="69" r="3.2" fill="#AEB8C7"/>
+  <text class="t" x="384.0" y="73.5" font-size="13" fill="#EDF0F5">Power BI</text>  <rect x="461.2" y="54" width="58.7" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="475.2" cy="69" r="3.2" fill="#AEB8C7"/>
+  <text class="t" x="485.2" y="73.5" font-size="13" fill="#EDF0F5">DAX</text>  <rect x="360.0" y="94" width="113.9" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="374.0" cy="109" r="3.2" fill="#AEB8C7"/>
+  <text class="t" x="384.0" y="113.5" font-size="13" fill="#EDF0F5">Power Query</text>  <rect x="360.0" y="134" width="182.9" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="374.0" cy="149" r="3.2" fill="#AEB8C7"/>
+  <text class="t" x="384.0" y="153.5" font-size="13" fill="#EDF0F5">Modelagem dimensional</text>  <rect x="360.0" y="174" width="113.9" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="374.0" cy="189" r="3.2" fill="#AEB8C7"/>
+  <text class="t" x="384.0" y="193.5" font-size="13" fill="#EDF0F5">Star schema</text>  <rect x="481.9" y="174" width="113.9" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="495.9" cy="189" r="3.2" fill="#AEB8C7"/>
+  <text class="t" x="505.9" y="193.5" font-size="13" fill="#EDF0F5">KPIs e OKRs</text>  <rect x="360.0" y="214" width="141.5" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="374.0" cy="229" r="3.2" fill="#AEB8C7"/>
+  <text class="t" x="384.0" y="233.5" font-size="13" fill="#EDF0F5">Dashboards HTML</text></g>
+<g>
+  <rect x="680.5" y="0.5" width="319" height="281" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <text class="m" x="700" y="34" font-size="12" letter-spacing="2" fill="#C08A5E">PRÁTICAS</text>  <rect x="700.0" y="54" width="120.8" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="714.0" cy="69" r="3.2" fill="#C08A5E"/>
+  <text class="t" x="724.0" y="73.5" font-size="13" fill="#EDF0F5">Git e GitHub</text>  <rect x="700.0" y="94" width="176.0" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="714.0" cy="109" r="3.2" fill="#C08A5E"/>
+  <text class="t" x="724.0" y="113.5" font-size="13" fill="#EDF0F5">Conciliação de dados</text>  <rect x="700.0" y="134" width="169.1" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="714.0" cy="149" r="3.2" fill="#C08A5E"/>
+  <text class="t" x="724.0" y="153.5" font-size="13" fill="#EDF0F5">Governança de dados</text>  <rect x="700.0" y="174" width="210.5" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="714.0" cy="189" r="3.2" fill="#C08A5E"/>
+  <text class="t" x="724.0" y="193.5" font-size="13" fill="#EDF0F5">Comunicação com o negócio</text>  <rect x="700.0" y="214" width="189.8" height="30" rx="15" fill="#0D1117" stroke="#1D2330"/>
+  <circle cx="714.0" cy="229" r="3.2" fill="#C08A5E"/>
+  <text class="t" x="724.0" y="233.5" font-size="13" fill="#EDF0F5">IA generativa aplicada</text></g>
+</svg>

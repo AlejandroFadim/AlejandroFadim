@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="168" viewBox="0 0 1000 168" role="img" aria-labelledby="t d">
+<title id="t">Indicadores de resultado</title>
+<desc id="d">Quatro indicadores: fechamento de comissões em cerca de 10 minutos, mais de 30 canais B2B, mais de 70 medidas DAX e 3,9 mil lojas acompanhadas por dia.</desc>
+<style>
+  .t{font-family:-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+  .card{animation:rise .7s cubic-bezier(.2,.7,.2,1) backwards}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+
+<g class="card" style="animation-delay:0.00s">
+  <rect x="0.5" y="0.5" width="231" height="167" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <rect x="24" y="0" width="40" height="3" rx="1.5" fill="#E5B94D"/>
+  <text class="t" x="24" y="74" font-size="42" font-weight="700" letter-spacing="-1" fill="#F6F8FB">~10 min</text>
+  <text class="t" x="24" y="108" font-size="15" font-weight="600" fill="#EDF0F5">Fechamento de comissões</text>
+  <text class="t" x="24" y="132" font-size="12.5" fill="#9AA4B5">antes: 4 a 6 h manuais</text>
+</g>
+<g class="card" style="animation-delay:0.12s">
+  <rect x="256.5" y="0.5" width="231" height="167" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <rect x="280" y="0" width="40" height="3" rx="1.5" fill="#E5B94D"/>
+  <text class="t" x="280" y="74" font-size="42" font-weight="700" letter-spacing="-1" fill="#F6F8FB">30+</text>
+  <text class="t" x="280" y="108" font-size="15" font-weight="600" fill="#EDF0F5">Canais B2B por pipeline</text>
+  <text class="t" x="280" y="132" font-size="12.5" fill="#9AA4B5">todo mês, no Databricks</text>
+</g>
+<g class="card" style="animation-delay:0.24s">
+  <rect x="512.5" y="0.5" width="231" height="167" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <rect x="536" y="0" width="40" height="3" rx="1.5" fill="#E5B94D"/>
+  <text class="t" x="536" y="74" font-size="42" font-weight="700" letter-spacing="-1" fill="#F6F8FB">70+</text>
+  <text class="t" x="536" y="108" font-size="15" font-weight="600" fill="#EDF0F5">Medidas DAX no modelo</text>
+  <text class="t" x="536" y="132" font-size="12.5" fill="#9AA4B5">8 fatos e 10 dimensões</text>
+</g>
+<g class="card" style="animation-delay:0.36s">
+  <rect x="768.5" y="0.5" width="231" height="167" rx="16" fill="#12161D" stroke="#1D2330"/>
+  <rect x="792" y="0" width="40" height="3" rx="1.5" fill="#E5B94D"/>
+  <text class="t" x="792" y="74" font-size="42" font-weight="700" letter-spacing="-1" fill="#F6F8FB">3,9 mil</text>
+  <text class="t" x="792" y="108" font-size="15" font-weight="600" fill="#EDF0F5">Lojas por dia</text>
+  <text class="t" x="792" y="132" font-size="12.5" fill="#9AA4B5">nota de 0 a 10 em 5 pilares</text>
+</g>
+</svg>

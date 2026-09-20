@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="197" height="46" viewBox="0 0 197 46" role="img" aria-labelledby="t d">
+<title id="t">Ver o portfólio</title>
+<desc id="d">Botão: Ver o portfólio</desc>
+<style>
+  .t{font-family:-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F3D27A"/><stop offset="1" stop-color="#D2A233"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="196" height="45" rx="23" fill="url(#g)" stroke="none"/>
+<text class="t" x="24" y="28.5" font-size="15" font-weight="700" fill="#0A0C10">Ver o portfólio</text>
+<path d="M162,28.0 L172,18.0 M164,18.0 H172 V26.0" fill="none" stroke="#0A0C10" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

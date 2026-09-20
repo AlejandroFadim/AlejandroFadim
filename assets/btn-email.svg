@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="46" viewBox="0 0 128 46" role="img" aria-labelledby="t d">
+<title id="t">E-mail</title>
+<desc id="d">Botão: E-mail</desc>
+<style>
+  .t{font-family:-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F3D27A"/><stop offset="1" stop-color="#D2A233"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="127" height="45" rx="23" fill="#12161D" stroke="#1D2330"/>
+<text class="t" x="24" y="28.5" font-size="15" font-weight="700" fill="#EDF0F5">E-mail</text>
+
+</svg>
