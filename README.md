@@ -31,11 +31,11 @@ I am a data and BI analyst based in São Paulo, Brazil, with a degree in Systems
 
 <br>
 
-## Resultados em números
+## Visão executiva
 
-<img src="assets/indicadores.svg" alt="Fechamento de comissões em cerca de 10 minutos, antes 4 a 6 horas manuais. Mais de 30 canais B2B por pipeline. Mais de 70 medidas DAX em um modelo com 8 fatos e 10 dimensões. 3,9 mil lojas acompanhadas por dia." width="100%">
+<img src="assets/indicadores.svg" alt="Cerca de 3 anos de experiência em dados e BI. Big Data com Databricks e PySpark, nas camadas Bronze, Prata e Ouro. 95% menos tempo em rotinas automatizadas, de horas para minutos. Trabalho end-to-end: ciclo completo do dado, do ETL à apresentação ao negócio." width="100%">
 
-<sub>Números do meu trabalho profissional. Nenhum dado de cliente é publicado.</sub>
+<sub>Panorama do meu trabalho em dados. Os números e a história de cada projeto estão no portfólio.</sub>
 
 <br>
 
